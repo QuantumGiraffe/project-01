@@ -1,0 +1,25 @@
+
+
+
+
+
+body{
+  background-color: rgb(0, 128, 255);
+}
+.textSyle{
+  font-size: 30px;
+  color: lightseagreen;
+  text-align: center;
+
+}
+
+.boxStyle{
+  height: 50%;
+  width: 50%;
+  border: 20px solid lightseagreen;
+  margin: 200px auto;
+  background-color: beige;
+}
+
+
+/* typical CSS file that styles the APP */
